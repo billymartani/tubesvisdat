@@ -1,0 +1,1 @@
+web : gunicorn tubesvisdat:app --log-file -
